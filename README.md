@@ -23,7 +23,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-singhal-88b7a5345/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/saksham_singhal20)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/saksham_singhal20/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshamsinghal2020@gmail.com)
 
 </div>
@@ -69,29 +69,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakshamSinghal20&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="170"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SakshamSinghal20&theme=blueberry&hide_border=false" alt="GitHub Streak" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamSinghal20&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="170"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=SakshamSinghal20&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
-
 ## ✍️ Dev Quote of the Day
 
 <div align="center">
@@ -115,8 +92,6 @@
 <div align="center">
 
 ### 💭 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-![Profile Views](https://visitcount.itsvg.in/api?id=SakshamSinghal20&icon=2&color=3)
 
 **Thanks for stopping by! Let's build something amazing together! 🚀**
 
