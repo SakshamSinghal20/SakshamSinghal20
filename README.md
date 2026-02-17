@@ -69,11 +69,15 @@
 
 ---
 
-## ✍️ Dev Quote of the Day
+## 🐍 Contribution Snake
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SakshamSinghal20/SakshamSinghal20/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SakshamSinghal20/SakshamSinghal20/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SakshamSinghal20/SakshamSinghal20/output/github-snake.svg" />
+</picture>
 
 </div>
 
@@ -84,6 +88,16 @@
 <div align="center">
 
 [![Saksham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SakshamSinghal20&theme=react-dark&hide_border=true)](https://github.com/SakshamSinghal20)
+
+</div>
+
+---
+
+## ✍️ Dev Quote of the Day
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
