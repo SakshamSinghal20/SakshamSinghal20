@@ -111,6 +111,15 @@
 
 </div>
 
+
+## 👀 Profile Views
+
+<div align="center">
+
+![Profile Views](https://visitcount.itsvg.in/api?id=SakshamSinghal20&icon=5&color=1)
+
+</div>
+
 ---
 
 <div align="center">
