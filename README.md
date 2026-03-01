@@ -116,7 +116,7 @@
 
 <div align="center">
 
-![Profile Views](https://visitcount.itsvg.in/api?id=SakshamSinghal20&icon=5&color=1)
+![Profile Views](https://komarev.com/ghpvc/?username=SakshamSinghal20&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
