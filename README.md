@@ -4,6 +4,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Backend+Developer+%F0%9F%92%BB;Blockchain+Enthusiast+%E2%9B%93;Always+Learning+%F0%9F%9A%80;Building+Innovative+Solutions" alt="Typing SVG" />
 
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=SakshamSinghal20&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
 ---
@@ -109,19 +113,12 @@
 
 **Thanks for stopping by! Let's build something amazing together! 🚀**
 
-</div>
+<br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=SakshamSinghal20&color=3B82F6&style=for-the-badge&label=👀+VISITORS)
 
-<div align="center">
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=👧+Thanks+for+visiting!+You're+visitor+%23..." />
+<i>⭐️ From <a href="https://github.com/SakshamSinghal20">SakshamSinghal20</a> with ❤️</i>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=SakshamSinghal20&color=ff69b4&style=for-the-badge&label=👀+VISITORS)
-
-</div>
-
----
-
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/SakshamSinghal20">SakshamSinghal20</a> with ❤️</i>
 </div>
