@@ -112,11 +112,11 @@
 </div>
 
 
-## 👀 Profile Views
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=SakshamSinghal20&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=👧+Thanks+for+visiting!+You're+visitor+%23..." />
+
+![Visitor Count](https://komarev.com/ghpvc/?username=SakshamSinghal20&color=ff69b4&style=for-the-badge&label=👀+VISITORS)
 
 </div>
 
