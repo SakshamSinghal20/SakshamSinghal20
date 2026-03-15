@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me.
+## 🚀 About Me..
 
 - 🔭 Currently crafting an **Advanced Backend Project** with cutting-edge tech
 - 💡 Open to collaborating on **unique and innovative ideas**
