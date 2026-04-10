@@ -14,8 +14,8 @@
 
 ## 🚀 About Me..
 
-- 🔭 Currently crafting an **Advanced Backend Project** with cutting-edge tech
-- 💡 Open to collaborating on **unique and innovative ideas**
+- 🔭 Currently crafting an **Advanced Backend Project** with cutting-edge tech.
+- 💡 Open to collaborating on **unique and innovative ideas**.
 - 🤝 Exploring **new tech stacks** and modern development practices
 - 🌱 Deep diving into **Blockchain** technology
 - ⚡ Fun fact: I love turning complex problems into elegant solutions!
