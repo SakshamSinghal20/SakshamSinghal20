@@ -32,6 +32,11 @@ jobs:
             dist/github-snake.svg?palette=github-light
             dist/github-snake-dark.svg?palette=github-dark
 
+      - name: Check out graph generator
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
       - name: Generate controlled contribution graph
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
