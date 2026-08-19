@@ -37,6 +37,6 @@ jobs:
         with:
           build_dir: dist
           target_branch: output
-          build_commit_message: "chore: refresh contribution snake"
+          commit_message: "chore: refresh contribution snake"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
