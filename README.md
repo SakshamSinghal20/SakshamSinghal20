@@ -18,7 +18,6 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=SakshamSinghal20&style=for-the-badge&color=ff2e63&label=ARCADE+VISITS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/SakshamSinghal20?style=for-the-badge&color=00f5d4&labelColor=111827&label=FOLLOWERS" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATION-ffe66d?style=for-the-badge&labelColor=111827" alt="Open to collaboration" />
 </p>
 
@@ -47,18 +46,6 @@ I am always interested in thoughtful collaborations, unusual technical challenge
 ### <span style="color:#FFE66D">POWER-UPS COLLECTED</span>
 
 `SYSTEM DESIGN` · `API ENGINEERING` · `DATA WORKFLOWS` · `BLOCKCHAIN` · `PRODUCT BUILDING` · `CONTINUOUS LEARNING`
-
-</div>
-
-## <span style="color:#FF2E63">`02` // ACTIVE MISSIONS</span>
-
-<div align="center">
-
-<a href="https://github.com/SakshamSinghal20/Verve"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SakshamSinghal20&repo=Verve&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=ff2e63&text_color=d7e3ff&icon_color=00f5d4" alt="Verve repository card" /></a>
-<a href="https://github.com/SakshamSinghal20/Whisper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SakshamSinghal20&repo=Whisper&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=00f5d4&text_color=d7e3ff&icon_color=ffe66d" alt="Whisper repository card" /></a>
-
-<a href="https://github.com/SakshamSinghal20/Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SakshamSinghal20&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=ffe66d&text_color=d7e3ff&icon_color=ff2e63" alt="Portfolio repository card" /></a>
-<a href="https://github.com/lingdojo/kana-dojo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lingdojo&repo=kana-dojo&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=00f5d4&text_color=d7e3ff&icon_color=ff2e63" alt="Kana Dojo repository card" /></a>
 
 </div>
 
