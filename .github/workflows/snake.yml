@@ -27,10 +27,17 @@ jobs:
       - name: Generate light and dark SVG animations
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: SakshamSinghal20
           outputs: |
             dist/github-snake.svg?palette=github-light
             dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Generate controlled contribution graph
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: SakshamSinghal20
+          ACTIVITY_GRAPH_OUTPUT: dist/activity-graph.svg
+        run: python3 scripts/generate_activity_graph.py
 
       - name: Publish generated assets to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
